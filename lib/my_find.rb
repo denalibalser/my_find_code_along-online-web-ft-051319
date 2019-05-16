@@ -5,4 +5,3 @@ def my_find(collection)
     i = i + 1
   end
 end
-
